@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}",
+                "/usr/include/c++/12"
+            ],
+            "defines": []
+        }
+    ],
+    "version": 4
+}
